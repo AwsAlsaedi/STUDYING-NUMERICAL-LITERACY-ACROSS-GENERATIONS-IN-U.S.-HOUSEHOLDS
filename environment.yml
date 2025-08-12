@@ -1,0 +1,19 @@
+name: psid-research
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pyarrow
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - tqdm
+  - jupyterlab
+  - pip
+  - pip:
+      - xgboost
+      - lightgbm
+      - catboost
