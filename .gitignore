@@ -1,0 +1,15 @@
+# Data (private PSID)
+data/raw/**
+data/interim/**
+data/processed/**
+!data/**/.keep
+
+# Secrets
+*.env
+configs/local*.yaml
+
+# OS / env junk
+__pycache__/
+.DS_Store
+.venv/
+.ipynb_checkpoints/
