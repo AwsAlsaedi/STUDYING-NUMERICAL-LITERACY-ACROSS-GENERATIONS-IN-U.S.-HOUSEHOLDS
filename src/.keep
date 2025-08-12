@@ -1,0 +1,8 @@
+notebooks/.keep
+data/raw/.keep
+data/interim/.keep
+data/processed/.keep
+reports/figures/.keep
+reports/tables/.keep
+configs/.keep
+tests/.keep
