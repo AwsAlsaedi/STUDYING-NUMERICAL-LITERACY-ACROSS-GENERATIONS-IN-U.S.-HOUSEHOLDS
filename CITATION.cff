@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Please cite this work if you use it.
+title: Studying Numerical Literacy Across Generations in U.S. Households
+authors:
+  - family-names: Alsaedi
+    given-names: Aws
+# Add co-authors below if needed
+version: 0.1.0
+date-released: 2025-08-12
+type: software
+repository-code: https://github.com/<your-username>/<your-repo>
+license: Proprietary
